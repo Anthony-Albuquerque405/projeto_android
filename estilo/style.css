@@ -42,7 +42,10 @@ header {
 
   text-align: center;
 }
-
+header.pag3_header {
+  min-height: 40px;
+  padding-bottom: 30px;
+}
 header > h1 {
   color: white;
 
