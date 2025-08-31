@@ -255,3 +255,7 @@ footer a:hover {
   text-decoration: underline;
   color: var(--cor3);
 }
+
+footer.pag3_footer {
+  margin-top: 30%;
+}
