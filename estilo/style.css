@@ -169,6 +169,14 @@ main img.peguena {
   margin: auto;
 }
 
+main a.extra {
+  background-color: white;
+  color: var(--cor3);
+}
+
+a.extra:hover {
+  color: var(--cor4);
+}
 article.pag2_article h2 {
   margin-bottom: 15px;
 }
@@ -176,6 +184,14 @@ article.pag2_article h2 {
 article.pag2_article p.creditos_pag2 {
   background-image: linear-gradient(to right, var(--cor3), transparent);
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.461);
+}
+
+picture.pag3-picture > img {
+  width: 30px;
+}
+
+strong.marca {
+  text-decoration: underline;
 }
 
 div.video {
