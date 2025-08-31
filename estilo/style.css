@@ -102,7 +102,6 @@ main {
   max-width: 700px;
   margin: auto;
   margin-bottom: 30px;
-
   padding: 20px;
 
   box-shadow: 9px 9px 9px rgba(0, 0, 0, 0.167);
@@ -165,6 +164,15 @@ main img.peguena {
   max-width: 350px;
   display: block;
   margin: auto;
+}
+
+article.pag2_article h2 {
+  margin-bottom: 15px;
+}
+
+article.pag2_article p.creditos_pag2 {
+  background-image: linear-gradient(to right, var(--cor3), transparent);
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.461);
 }
 
 div.video {
