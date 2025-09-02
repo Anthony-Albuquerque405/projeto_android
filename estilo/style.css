@@ -29,6 +29,15 @@ body {
   font-family: var(--font-padrao);
 }
 
+body.pag3-body {
+  height: 100vh;
+  background-color: var(--cor0);
+  background-image: url("/imagens/android.jpeg");
+  background-position: left bottom;
+  background-size: 800px;
+  background-repeat: repeat;
+}
+
 a.externo::after {
   content: "\00A0\1F517";
 }
